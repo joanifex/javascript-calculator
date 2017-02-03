@@ -1,1 +1,22 @@
+.container {
+  max-width: 360px;
+  border: 1px solid black;
+}
+#display {
+  margin-bottom: 0;
+  height: 85px;
+}
+#display-output {
+  float: right;
+}
 
+body {
+  font-family: 'VT323', monospace;
+  font-size: 32px;
+
+}
+h1 {
+  font-size: 38px;
+  margin-bottom: 32px;
+  text-align: center;
+}
